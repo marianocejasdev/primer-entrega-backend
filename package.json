@@ -1,0 +1,16 @@
+{
+  "name": "coderhouse-backend",
+  "version": "1.0.0",
+  "description": "Primer Entrega - Coderhouse Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Mariano Cejas",
+  "license": "MIT licence",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

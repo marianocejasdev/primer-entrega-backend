@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "products": [
+            {
+                "id": 1,
+                "units": 2
+            },
+            {
+                "id": 2,
+                "units": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "products": [
+            {
+                "id": 2,
+                "units": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "products": [
+            {
+                "id": 3,
+                "units": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "products": [
+            {
+                "id": 1,
+                "units": 3
+            }
+        ]
+    }
+]

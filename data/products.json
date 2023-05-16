@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Description of product 1",
+        "code": "P001",
+        "price": 100,
+        "status": true,
+        "stock": 5,
+        "category": "Category 1",
+        "thumbnails": [
+            "https://example.com/p001-image1.jpg",
+            "https://example.com/p001-image2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Description of product 2",
+        "code": "P002",
+        "price": 200,
+        "status": true,
+        "stock": 15,
+        "category": "Category 2",
+        "thumbnails": [
+            "https://example.com/p002-image1.jpg",
+            "https://example.com/p002-image2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Description of product 3",
+        "code": "P003",
+        "price": 300,
+        "status": true,
+        "stock": 27,
+        "category": "Category 3",
+        "thumbnails": [
+            "https://example.com/p003-image1.jpg",
+            "https://example.com/p003-image2.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Product 4",
+        "description": "Description of product 4",
+        "code": "P004",
+        "price": 400,
+        "status": true,
+        "stock": 40,
+        "category": "Category 4",
+        "thumbnails": [
+            "https://example.com/p004-image1.jpg",
+            "https://example.com/p004-image2.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Description of product 5",
+        "code": "P005",
+        "price": 500,
+        "status": true,
+        "stock": 50,
+        "category": "Category 5",
+        "thumbnails": [
+            "https://example.com/p005-image1.jpg",
+            "https://example.com/p005-image2.jpg"
+        ]
+    }
+]
