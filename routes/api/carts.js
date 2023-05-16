@@ -58,7 +58,7 @@ router.post('/', (req, res) => {
   res.status(201).json({ status: 201, response: newCart });
 });
 
-router.put('/:cid/product/:pid/:units', (req, res, next) => {
+router.post('/:cid/product/:pid/:units', (req, res, next) => {
   const { cid, pid, units } = req.params;
   const carts = readItemsFromFile(cartsFilePath);
   const products = readItemsFromFile(productsFilePath);
